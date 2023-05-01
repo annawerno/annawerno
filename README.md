@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+I'm Anna, a career changer navigating their way around coding, creating exciting and delightful interfaces! 
+
+🔭 I’m currently working on a little pet project call Werno Surfboards. From idea 💡 to conception 💻. Using the skills I have learnt so far, I designed a website based on a random generated brief: Werno Surfboards 🏄 View my progress [here](https://github.com/annawerno/werno-surfboards)
+
+🌱 I’m currently learning how to apply my new skills in HTML, CSS and JavaScript by creating beautiful things. I am also learning WordPress and PHP as my side piece 🧩
+
+🦸‍♀️ I feel like a superhero when I figure something out! The satisfaction of understanding and evolving my skills as a developer makes my decision to jump into this industry intoxicating
+
+👯 I’m looking to collaborate wiht like-minded individuals who are also starting out in their tech journey
+
+Let's connect and navigate this world together!
+
+<div align="center">
+
+[<img src="https://user-images.githubusercontent.com/117635655/235433156-a2d4a08f-cd59-4cca-ad87-fb5854f35d47.png" width="50"/>](https://www.linkedin.com/in/annawerno/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/117635655/235433477-a19420a5-a351-4e55-81ae-c1b8886ae6ba.png" width="50"/>](https://twitter.com/annawerno_dev) 
+
+</div>
+
+🔍 Want to check out my deployed projects? Head to [my netlify page](https://app.netlify.com/teams/annawerno/overview)
+
+
 <!--
 **annawerno/annawerno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
