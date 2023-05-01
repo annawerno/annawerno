@@ -2,7 +2,7 @@
 
 I'm Anna, a career changer navigating their way around coding, creating exciting and delightful interfaces! 
 
-🔭 I’m currently working on a little pet project call Werno Surfboards. From idea 💡 to conception 💻. Using the skills I have learnt so far, I designed a website based on a random generated brief: Werno Surfboards 🏄 View my progress [here](https://github.com/annawerno/werno-surfboards)
+🔭 I’m currently working on a little pet project called Werno Surfboards. From idea 💡 to conception 💻. Using the skills I have learnt so far, I designed a website based on a random generated brief: Werno Surfboards 🏄 View my progress [here](https://github.com/annawerno/werno-surfboards)
 
 🌱 I’m currently learning how to apply my new skills in HTML, CSS and JavaScript by creating beautiful things. I am also learning WordPress and PHP as my side piece 🧩
 
