@@ -8,7 +8,7 @@ I'm Anna, a career changer navigating their way around coding, creating exciting
 
 🦸‍♀️ I feel like a superhero when I figure something out! The satisfaction of understanding and evolving my skills as a developer makes my decision to jump into this industry intoxicating
 
-👯 I’m looking to collaborate wiht like-minded individuals who are also starting out in their tech journey
+👯 I’m looking to collaborate with like-minded individuals who are also starting out in their tech journey
 
 Let's connect and navigate this world together!
 
