@@ -4,7 +4,7 @@ I'm Anna, a career changer navigating their way around coding, creating exciting
 
 🔭 My current project is my own porfolio website, the bones of which are [here](https://annawerno.co.uk)
 
-🌱 I’m currently learning how to apply my new skills in HTML, CSS and JavaScript by creating beautiful things. I am also learning WordPress and PHP as my side piece 🧩
+🌱 I am currently working as a Junior Wordpress Developer, creating and maintaining websites with anything from brochure sites to corporate multisites.  Honing my skills and learning something new every day!
 
 🦸‍♀️ I feel like a superhero when I figure something out! The satisfaction of understanding and evolving my skills as a developer makes my decision to jump into this industry intoxicating
 
