@@ -2,9 +2,7 @@
 
 I'm Anna, a career changer navigating their way around coding, creating exciting and delightful interfaces! 
 
-🔭 Current projects:
-   - **The Truth Oracle** Seek the answers to those all important burning questions 🔮 Navigating my way through WordPress and creating a theme using PHP 🔍 Check out my progress [here](https://github.com/annawerno/TheTruthOracleWP)
-   - **Werno Surfboards** From idea 💡 to conception 💻. Using the skills I have learnt so far, I designed a website based on a random generated brief: Werno Surfboards 🏄 View my progress [here](https://github.com/annawerno/werno-surfboards-v2.0)
+🔭 My current project is my own porfolio website, the bones of which are [here](https://annawerno.co.uk)
 
 🌱 I’m currently learning how to apply my new skills in HTML, CSS and JavaScript by creating beautiful things. I am also learning WordPress and PHP as my side piece 🧩
 
@@ -20,8 +18,6 @@ Let's connect and navigate this world together!
 [<img src="https://user-images.githubusercontent.com/117635655/235433477-a19420a5-a351-4e55-81ae-c1b8886ae6ba.png" width="50"/>](https://twitter.com/annawerno_dev) 
 
 </div>
-
-🔍 Want to check out my other deployed projects? Head to [my netlify page](https://app.netlify.com/teams/annawerno/overview)
 
 
 🌍 Looking for a safe and inclusive tech community -> check out [codebar](https://codebar.io/)
