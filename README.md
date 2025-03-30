@@ -2,7 +2,7 @@
 
 I'm Anna, a career changer navigating their way around coding, creating exciting and delightful interfaces! 
 
-🔭 My current project is my own porfolio website, the bones of which are [here](https://annawerno.co.uk)
+🔭 My current project is my own porfolio website, the bones of which are [here]([https://annawerno.co.uk](https://github.com/annawerno/annawerno-portfolio))
 
 🌱 I am currently working as a Junior Wordpress Developer, creating and maintaining websites with anything from brochure sites to corporate multisites.  Honing my skills and learning something new every day!
 
